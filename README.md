@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔬I'm currently working on Vscode projects<br>🧠I'm currently learning more about data structures<br>🔎I'm looking to get involved in an internship<br>🏅Proud member of Terry Foundation and the UTSA Honors Program<br>📫Contact me: Pcordova1661@gmail.com<br>😇Pronouns: He/Him<br>🐿️Fun Fact: I play guitar! 
+🔬I'm currently working on object oriented programming projects<br>🧠I'm currently learning more about data structures<br>🔎I'm looking to get involved in a summer internship<br>🏅Proud member of Terry Foundation and the UTSA Honors Program<br>📫Contact me: Pcordova1661@gmail.com<br>😇Pronouns: He/Him<br>🐿️Fun Fact: I play guitar! 
 
 
 
