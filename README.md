@@ -16,4 +16,6 @@
 
 
 ## Certifications
-[![CompTIA Security+](https://images.credly.com/size/340x340/images/746f0c0e-4d80-4c6f-8c34-2c1a0485cde0/image.png)](https://www.credly.com/badges/6456d19b-e5e1-4cf4-8456-3fe2565cacae/public_url)
+<a href="https://www.credly.com/badges/6456d19b-e5e1-4cf4-8456-3fe2565cacae/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/746f0c0e-4d80-4c6f-8c34-2c1a0485cde0/image.png" alt="CompTIA Security+ Badge" width="150"/>
+</a>
