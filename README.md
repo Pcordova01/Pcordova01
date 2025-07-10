@@ -9,10 +9,10 @@ To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-wor
 
 ## Skills
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1    | Data     | More     |
-| Row 2    | Info     | Stuff    |
+| Skills | Project |
+|----------|----------|
+| Row 1    | Keylogger In Python     |
+| Row 2    | Info     |
 
 
 
