@@ -1,9 +1,11 @@
 # Hello, I'm Pedro!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-c-151296221)<br>
-{delete this: summary of who i am}
+I'm Pedro Cordova — a Computer Science student at UTSA with a strong interest in cybersecurity operations, Linux environments, Python scripting, and system auditing. This portfolio highlights hands-on projects and scenarios focused on incident response, log analysis, risk assessments, and system hardening.
+
+I enjoy working in terminal-based environments, building practical tools with Python and SQL, and simulating real-world audit and security challenges. I’m passionate about protecting systems, analyzing threats, and continually improving through training, collaboration, and applied practice.
 
 ## Objective
-[quick objective delete this]
+To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-world scenarios involving threat detection, system hardening, and incident response—while continuing to grow through hands-on simulations, continuous learning, and collaborative problem-solving.
 
 ## Skills
 
