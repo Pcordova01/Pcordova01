@@ -17,3 +17,4 @@
 
 ## Certifications
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-red?logo=CompTIA&logoColor=white)](https://www.credly.com/badges/6456d19b-e5e1-4cf4-8456-3fe2565cacae/public_url)
+[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-blue?logo=google&logoColor=white)](https://coursera.org/share/bba951a6d7528978187073cfaae0795e)
