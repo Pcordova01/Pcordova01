@@ -11,7 +11,7 @@ To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-wor
 
 | Skills | Project |
 |----------|----------|
-| Row 1    | Keylogger In Python     |
+| Python, Email Automation, VS Code    | Keylogger In Python     |
 | Row 2    | Honeypot     |
 | Row 2    | Scenerios     |
 
