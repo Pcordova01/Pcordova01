@@ -11,7 +11,7 @@ To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-wor
 
 | Skills | Project |
 |----------|----------|
-| Python, Email Automation, VS Code    | Keylogger In Python     |
+| Python, Email Automation, VS Code    | [Keylogger in Python](https://github.com/Pcordova01/python-keylogger-emailer)     |
 | Row 2    | Honeypot     |
 | Row 2    | Scenerios     |
 
