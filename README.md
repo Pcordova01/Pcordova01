@@ -11,7 +11,7 @@ To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-wor
 
 | Skills | Project |
 |----------|----------|
-| Row 2    | Honeypot     |
+| VirtualBox, Kali Linux, Splunk    | [Malware Analysis (Home Lab Simulation)](https://github.com/Pcordova01/Malware-Analysis-Home-Lab-Simulation-)     |
 | Python, Email Automation, VS Code    | [Ethical Keylogger Simulation](https://github.com/Pcordova01/python-keylogger-emailer)     |
 | Row 2    | Honeypot     |
 
