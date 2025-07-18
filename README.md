@@ -15,6 +15,7 @@ To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-wor
 | Python, Email Automation, VS Code    | [Ethical Keylogger Simulation](https://github.com/Pcordova01/python-keylogger-emailer)     |
 | Bash, Linux CLI    | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md)     |
 | Netrwork Protocol Analysis, Incident Response, Risk Assessment & Security Auditing    | [Security Compliance Incident Simulation](https://github.com/Pcordova01/Security-Compliance-Incident-Simulation)     |
+| Bash, Linux CLI    | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md)     |
 
 
 ## Tools (Broken Down into Categories)
