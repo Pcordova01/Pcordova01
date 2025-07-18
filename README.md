@@ -7,17 +7,7 @@ I enjoy working in terminal-based environments, building tools with Python and S
 ## Objective
 I aim to apply my technical skills in Linux, Python, SQL, and cybersecurity auditing to projects involving threat detection, compliance, and incident response, while continuing to grow through hands-on simulations, continuous learning, and team-based challenges.
 
-## Skills
-
-| Skills | Project |
-|----------|----------|
-| VirtualBox, Kali Linux, Splunk    | [Malware Analysis (Home Lab Simulation)](https://github.com/Pcordova01/Malware-Analysis-Home-Lab-Simulation-)     |
-| Python, Email Automation, VS Code    | [Ethical Keylogger Simulation](https://github.com/Pcordova01/python-keylogger-emailer)     |
-| Netrwork Protocol Analysis, Incident Response, Risk Assessment & Security Auditing    | [Security Compliance Incident Simulation](https://github.com/Pcordova01/Security-Compliance-Incident-Simulation)     |
-| Bash, Linux CLI    | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md)     |
-
-
-## 🛠️ Skills & Projects
+## Skills & Projects
 
 | Skill Areas                                     | Tools Used                                   | Project |
 |-------------------------------------------------|----------------------------------------------|---------|
@@ -25,10 +15,6 @@ I aim to apply my technical skills in Linux, Python, SQL, and cybersecurity audi
 | Python Scripting, Email Automation, Red Team Tactics | Python, `pynput`, SMTP (Gmail), VS Code | [Ethical Keylogger Simulation](https://github.com/Pcordova01/python-keylogger-emailer) |
 | Network Analysis, Incident Response, Security Auditing | Wireshark, Audit Logs, Manual Reporting | [Security Compliance Incident Simulation](https://github.com/Pcordova01/Security-Compliance-Incident-Simulation) |
 | Bash Scripting, File I/O, Linux CLI Usage       | Bash, `read`, `echo`, `cat`, `chmod`         | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md) |
-
-
-## Tools (Broken Down into Categories)
-
 
 ## Certifications
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-red?logo=CompTIA&logoColor=white)](https://www.credly.com/badges/6456d19b-e5e1-4cf4-8456-3fe2565cacae/public_url)
