@@ -13,7 +13,7 @@ To apply my skills in Linux, Python, SQL, and cybersecurity auditing to real-wor
 |----------|----------|
 | VirtualBox, Kali Linux, Splunk    | [Malware Analysis (Home Lab Simulation)](https://github.com/Pcordova01/Malware-Analysis-Home-Lab-Simulation-)     |
 | Python, Email Automation, VS Code    | [Ethical Keylogger Simulation](https://github.com/Pcordova01/python-keylogger-emailer)     |
-| Bash, Linux CLI    | [Course Catalog Management (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md)     |
+| Bash, Linux CLI    | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md)     |
 | Netrwork Protocol Analysis, Incident Response, Risk Assessment & Security Auditing    | [Security Compliance Incident Simulation](https://github.com/Pcordova01/Security-Compliance-Incident-Simulation)     |
 
 
