@@ -17,6 +17,16 @@ I aim to apply my technical skills in Linux, Python, SQL, and cybersecurity audi
 | Bash, Linux CLI    | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md)     |
 
 
+## 🛠️ Skills & Projects
+
+| Skill Areas                                     | Tools Used                                   | Project |
+|-------------------------------------------------|----------------------------------------------|---------|
+| Virtualization, Linux Systems, Log Analysis     | VirtualBox, Kali Linux, Splunk               | [Malware Analysis (Home Lab Simulation)](https://github.com/Pcordova01/Malware-Analysis-Home-Lab-Simulation-) |
+| Python Scripting, Email Automation, Red Team Tactics | Python, `pynput`, SMTP (Gmail), VS Code | [Ethical Keylogger Simulation](https://github.com/Pcordova01/python-keylogger-emailer) |
+| Network Analysis, Incident Response, Security Auditing | Wireshark, Audit Logs, Manual Reporting | [Security Compliance Incident Simulation](https://github.com/Pcordova01/Security-Compliance-Incident-Simulation) |
+| Bash Scripting, File I/O, Linux CLI Usage       | Bash, `read`, `echo`, `cat`, `chmod`         | [Course Catalog Management System (Bash)](https://github.com/Pcordova01/Course_Catalog/blob/main/README.md) |
+
+
 ## Tools (Broken Down into Categories)
 
 
